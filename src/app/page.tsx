@@ -61,7 +61,7 @@ export default function Home() {
               rel="noopener noreferrer"
               aria-label="Follow us on Twitter"
             >
-              <span className="flex h-10 w-10 items-center justify-center rounded-full bg-[#1DA1F2]">
+              <span className="flex h-10 w-10 items-center justify-center rounded-full bg-[#000]">
                 <Image
                   src="/twitter.svg"
                   width="25"
